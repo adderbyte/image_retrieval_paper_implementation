@@ -4,9 +4,23 @@
 content based image retrieval
 ------------------------------
 
-Given an image retireve similar images from the data base.
+Given a query image retireve similar images from the data base.
 
 
+Example, this is a query image, selected randomly from the internet:
+
+![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/test2.jpg)
+
+Example,retrieve top-10 similar objects as below using metric distance:
+
+![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/screen_top.png)
+
+Or as use Multilayer perceptron (MLP):
+
+![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/screen_top.png)
+
+The Multilayer perceptron has not be trained properly and fine tuned. When this is then the MLP should perform
+better than euclidena distance.
 
 
 -----------------------------------

@@ -19,8 +19,8 @@ Or as use Multilayer perceptron (MLP):
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/mlp.png)
 
-The Multilayer perceptron has not be trained properly and fine tuned. When this is then the MLP should perform
-better than euclidena distance.
+The Multilayer perceptron has not be trained properly and fine tuned. When this is done the MLP should perform
+better than standard metric distance.
 
 
 -----------------------------------

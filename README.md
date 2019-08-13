@@ -15,7 +15,7 @@ Example,retrieve top-10 similar objects as below using metric distance:
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/screen_top.png)
 
-Example, retrieve top-10 similar objects using ssim [structural similarity index](https://ece.uwaterloo.ca/~z70wang/publications/ssim.pdf) as similarity measure. This gives better performance. Could you spot the difference ?:
+Example, retrieve top-10 similar objects using  [structural similarity index](https://ece.uwaterloo.ca/~z70wang/publications/ssim.pdf) as similarity measure. This gives better performance. Could you spot the difference ?:
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/ssim.png)
 

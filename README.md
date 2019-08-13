@@ -19,6 +19,10 @@ Example, retrieve top-10 similar objects using  [structural similarity index](ht
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/ssims.png)
 
+Or as use ssim divided by the suclidean distance:
+![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/ssims.png)
+
+
 Or as use Multilayer perceptron (MLP):
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/mlp.png)

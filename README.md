@@ -38,3 +38,7 @@ better than standard metric distance.
 The training was based on the caltech 101 object category data set.
 
 [Caltech Category Objects Database](http://www.vision.caltech.edu/Image_Datasets/Caltech101/Caltech101.html#Download)
+
+
+
+@author Olagoke

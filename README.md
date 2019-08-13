@@ -19,7 +19,7 @@ Example, retrieve top-10 similar objects using  [structural similarity index](ht
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/ssims.png)
 
-Or as use ssim divided by the euclidean distance. Try to retieve top-30 images to cinfirm that this does better:
+Or as use ssim divided by the euclidean distance. Try to retrieve top-30 images to cinfirm that this does better:
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/ssim_divided_by_euclid.png)
 
 

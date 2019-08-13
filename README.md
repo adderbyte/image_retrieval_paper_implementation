@@ -15,6 +15,10 @@ Example,retrieve top-10 similar objects as below using metric distance:
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/screen_top.png)
 
+Example, retrieve top-10 similar objects using ssim (structural similarity index) as similarity index:
+
+![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/ssim.png)
+
 Or as use Multilayer perceptron (MLP):
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/mlp.png)

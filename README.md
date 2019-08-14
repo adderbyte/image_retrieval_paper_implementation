@@ -35,6 +35,15 @@ better than standard metric distance.
 
 -----------------------------------
 
+    Pre-processed Data for Running Model
+------------------------------
+To download the preprocessed data used in the training use the link below:
+
+[Public Data Folder](https://yadi.sk/d/eVz5JYGK1HHxFQ)
+
+
+-----------------------------------
+
     Dataset
 ------------------------------
 The training was based on the caltech 101 object category data set.

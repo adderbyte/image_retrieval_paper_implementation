@@ -4,7 +4,7 @@
 content based image retrieval
 ------------------------------
 
-Given a query image retireve similar images from the data base.
+Given a query image retrieve similar images from the database.
 
 
 Example, this is a query image, selected randomly from the internet:

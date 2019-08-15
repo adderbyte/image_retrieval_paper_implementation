@@ -23,11 +23,11 @@ Or as use ssim divided by the euclidean distance. Try to retrieve top-30 images 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/ssim_divided_by_euclid.png)
 
 
-Or as use Multilayer perceptron (MLP):
+Or as use Neural network for model prediction:
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/mlp_real.png)
 
-The Neural model was trained properly just for 5 epochs!
+The Neural model was trained  just for 5 epochs!
 
 
 -----------------------------------

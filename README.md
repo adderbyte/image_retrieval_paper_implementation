@@ -27,9 +27,7 @@ Or as use Multilayer perceptron (MLP):
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/mlp_real.png)
 
-The Multilayer perceptron has not be trained properly and fine tuned. When this is done the MLP should perform
-better than standard metric distance.
-
+The Neural model was trained properly just for 5 epochs!
 
 
 -----------------------------------

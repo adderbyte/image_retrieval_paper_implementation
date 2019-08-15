@@ -41,7 +41,7 @@ better than standard metric distance.
     * Download the preprocessed data (see the link to download below)
     * Place the ipython notebook `CBIR.ipynb` in same folder as the downloaded data
     * Run the ipython notebook (note: you could retrain your own neural model)
-    * No need to rerun the data preprocessing part of the notebook (sure, you could try a different idea if you want)
+    * No need to rerun the data preprocessing part of the notebook (if you want to, you could)
     * Enjoy !
 
 

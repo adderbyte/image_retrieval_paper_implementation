@@ -36,7 +36,7 @@ The Neural model was trained  just for 5 epochs!
 ------------------------------
     
     * Clone this repository
-    * Download the preprocessed data (see the link to download below)
+    * Download the preprocessed data (see link to the data folder below)
     * Place the ipython notebook `CBIR.ipynb` in same folder as the downloaded data
     * Run the ipython notebook (note: you could retrain your own neural model)
     * No need to rerun the data preprocessing part of the notebook (if you want to, you could)

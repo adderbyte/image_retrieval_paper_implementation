@@ -37,9 +37,11 @@ better than standard metric distance.
 
     Pre-processed Data for Running Model
 ------------------------------
-To download the preprocessed data used in the training use the link below:
+To folder containing the preprocessed data is in the link below:
 
 [Public Data Folder](https://yadi.sk/d/eVz5JYGK1HHxFQ)
+
+Download the preprocessed in the same folder as the ipython notebook `CBIR.ipython`. Afterwards, run the ipython notebook
 
 
 -----------------------------------

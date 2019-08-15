@@ -47,7 +47,7 @@ The Neural model was trained  just for 5 epochs!
 
     Pre-processed Data for Running Model
 ------------------------------
-To folder containing the preprocessed data is in the link below:
+The folder containing the preprocessed data is in the link below:
 
 [Public Data Folder](https://yadi.sk/d/eVz5JYGK1HHxFQ)
 

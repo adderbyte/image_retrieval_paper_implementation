@@ -11,7 +11,7 @@ Example, this is a query image, selected randomly from the internet:
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/test2.jpg)
 
-Example,retrieve top-10 similar objects as below using metric distance:
+Example,retrieve top-10 similar objects as below using euclidean distance as similarity measure:
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/screen_top.png)
 
@@ -19,11 +19,11 @@ Example, retrieve top-10 similar objects using  [structural similarity index](ht
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/ssims.png)
 
-Or as use ssim divided by the euclidean distance. Try to retrieve top-30 images to cinfirm that this does better:
+Or  use ssim divided by the euclidean distance. Try to retrieve top-30 images to cinfirm that this does better:
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/ssim_divided_by_euclid.png)
 
 
-Or as use Neural network for model prediction:
+Or using Neural network for  similarity score prediction:
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/mlp_real.png)
 

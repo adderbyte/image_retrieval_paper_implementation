@@ -1,7 +1,8 @@
 
 
 -----------------------------------
-content based image retrieval
+
+### content based image retrieval
 ------------------------------
 
 <p> Here is the scenario: Given a query image retrieve similar images from the database ? </p>

@@ -1,5 +1,3 @@
-
-
 -----------------------------------
 
 ### content based image retrieval
@@ -15,7 +13,9 @@ This repository is an attempt to develop a mini image retrieval system. This has
    * Having a similarity score for  pairs of feature vectors for training the neural network.
 
 
-Example, this is a query image, selected randomly from the internet:
+
+
+<p> Example, this is a query image, selected randomly from the internet:  </p>
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/test2.jpg)
 

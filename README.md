@@ -7,10 +7,14 @@
 
 Assuming you have an image of an object but you don't know what name it is called, or what characteristics it has. Then, you might want to do an image search on Yandex, Google or Baidu to help retrieve similar images to your query image. Once retrieved, you could know everything you want about your query image based on the similar images retrieved: assuming the retrieval system works well and retrieves the correct/actual matching images.
 
-This repository is an attempt to develop a mini image retrieval system. This has important use in medicine, industrial automation and other domains. It will be shown that Neural network are very good at computing similarities between objects better than the metric similarity measures (eg euclidean distance) we are familiar with. 3 factors are important:
+This repository is an attempt to develop a mini image retrieval system. This has important use in medicine, industrial automation and other domains. It will be shown that Neural network are very good at computing similarities between objects activation feature vectors better than the metric similarity measures (eg euclidean distance) we are familiar with.
+
+2 factors are important:
 
    * using the activation layers as feature vectors
-   * Having a similarity score for  pairs of feature vectors for training the neural network.
+   * Having a labelled data for training the neural network (feature vectors as input and similarity score as target)
+   * The target score will be derived using [structural similarity index](https://ece.uwaterloo.ca/~z70wang/publications/ssim.pdf) 
+   
 
 
 

@@ -9,11 +9,12 @@ Assuming you have an image of an object but you don't know what name it is calle
 
 This repository is an attempt to develop a mini image retrieval system. This has important use in medicine, industrial automation and other domains. It will be shown that Neural network are very good at computing similarities between objects activation feature vectors better than the metric similarity measures (eg euclidean distance) we are familiar with.
 
+
 2 factors are important:
 
    * using the activation layers as feature vectors
    * Having a labelled data for training the neural network (feature vectors as input and similarity score as target)
-   * The target score will be derived using [structural similarity index](https://ece.uwaterloo.ca/~z70wang/publications/ssim.pdf) 
+   * The target score will be derived using [structural similarity index](https://ece.uwaterloo.ca/~z70wang/publications/ssim.pdf)/ euclidean distance with some heuristics to get easy and difficult pair scores
    
 
 

@@ -10,7 +10,7 @@ Assuming you have an image of an object but you don't know what name it is calle
 This repository is an attempt to develop a mini image retrieval system. This has important use in medicine, industrial automation and other domains. It will be shown that Neural networks are very good at computing similarities between objects activation feature vectors  than the metric similarity measures (eg euclidean distance) we are familiar with: this fact will be important for the image retrieval task.
 
 
-2 factors are important:
+3 factors are important:
 
    * using the activation layers as feature vectors
    * Having a labelled data for training the neural network (feature vectors as input and similarity score as target)

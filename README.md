@@ -24,7 +24,7 @@ This repository is an attempt to develop a mini image retrieval system. This has
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/test2.jpg)
 
-Example,retrieve top-10 similar objects as below using euclidean distance as similarity measure:
+Task: retrieve top-10 similar objects to the random image using euclidean distance as similarity measure:
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/screen_top.png)
 

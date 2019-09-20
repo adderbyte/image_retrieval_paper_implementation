@@ -20,7 +20,7 @@ This repository is an attempt to develop a mini image retrieval system. This has
 
 
 
-<p> Example, this is a query image, selected randomly from the internet:  </p>
+<p> As an example, this is a query image, selected randomly from the internet:  </p>
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/test2.jpg)
 

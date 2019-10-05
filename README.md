@@ -13,7 +13,7 @@ This repository is an attempt to develop a mini image retrieval system. This has
 3 factors are important:
 
    * using the activation layers as feature vectors
-   * Having a labelled data for training the neural network (feature vectors as input and similarity score as target)
+   * Having a labelled data for training image pair (feature vectors as input and similarity score as target)
    * The target score will be derived using [structural similarity index](https://ece.uwaterloo.ca/~z70wang/publications/ssim.pdf)/ euclidean distance with some heuristics to get easy and difficult pair scores
    
 
@@ -24,7 +24,7 @@ This repository is an attempt to develop a mini image retrieval system. This has
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/test2.jpg)
 
-Task: retrieve top-10 similar objects to the random image using euclidean distance as similarity measure:
+Task: retrieve the top-10 similar objects to the random image using euclidean distance as similarity measure:
 
 ![alt-text](https://github.com/adderbyte/content_based_image_retrieval/blob/master/data_file/screen_top.png)
 

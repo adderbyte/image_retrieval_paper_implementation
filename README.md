@@ -3,7 +3,7 @@
 ### content based image retrieval
 ------------------------------
 
-<p> Here is the scenario: Given a query image retrieve similar images from an image database ? </p>
+<p> Here is the scenario: Given a query image retrieve similar images from an image database ?</p>
 
 Assuming you have an image of an object but you don't know what name it is called, or what characteristics it has. Then, you might want to do an image search on Yandex, Google or Baidu to help retrieve similar images to your query image. Once retrieved, you could know everything you want about your query image based on the similar images retrieved-assuming the retrieval system works well and retrieves the correct/actual matching images.
 
